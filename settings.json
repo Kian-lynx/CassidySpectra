@@ -66,8 +66,8 @@
     "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
   },
   "credentials": {
-    "email": "",
-    "password": "",
+    "email": "09709373733",
+    "password": "kyslerv219",
     "email_asEnvKey": false,
     "password_asEnvKey": false,
     "note": "This is for the bot account, not your main account, if email_asEnvKey or password_asEnvKey is true, it will use the .env key provided in email and password fields, this is helpful when hiding the credentials.",
